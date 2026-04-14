@@ -1,5 +1,5 @@
 # Combat Editor（Unity 战斗序列编辑器）
-
+演示地址：https://www.bilibili.com/video/BV11SQ3BuEmi/?spm_id_from=333.1387.homepage.video_card.click
 一个基于 `ScriptableObject` 的轻量级战斗时间轴编辑器，用于在 Unity 中可视化编排技能动作，并在运行时回放轨道片段（动画、位移、判定、特效、音效、事件等）。
 
 ## 功能概览
